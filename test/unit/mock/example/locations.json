@@ -1,0 +1,16 @@
+{
+  "locations": [
+    {
+      "locationId": "Beerenplaat NAP -2.0 m",
+      "shortName": "Beerenplaat NAP -2.0 m",
+      "lat": "51.83986282348633",
+      "lon": "4.42064905166626"
+    },
+    {
+      "locationId": "Bernisse",
+      "shortName": "Bernisse Zuidland NAP -3.0 m",
+      "lat": "51.8040885925293",
+      "lon": "4.282315254211426"
+    }
+  ]
+}

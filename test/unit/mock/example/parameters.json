@@ -1,0 +1,28 @@
+{
+  "parameters": [
+    {
+      "parameterId": "RP"
+    },
+    {
+      "parameterId": "SEP"
+    },
+    {
+      "parameterId": "VELU"
+    },
+    {
+      "parameterId": "VELUV_abs"
+    },
+    {
+      "parameterId": "VELV"
+    },
+    {
+      "parameterId": "air_pressure_at_sea_level"
+    },
+    {
+      "parameterId": "air_pressure_fixed_height"
+    },
+    {
+      "parameterId": "air_temperature"
+    }
+  ]
+}
